@@ -1,0 +1,27 @@
+Due May 5 by 6pm  Points 110
+Submitting a file upload Available Feb 17 at 8:30pm - Mar 17 at 6pm
+
+Please refer the Lab2 folder and finish the project as specified in "SJSU_Lab2_Stock_Analysis.pdf".
+
+https://sjsu.instructure.com/files/81732574/download?download_frd=1
+
+Please find below the submission requirements for LAB-2.
+
+1. 
+Zip file containing all project files along with chrome drivers, so that it can be simply extracted and executed if needed. 
+It should contain the following files with complete implementation.
+stock_class.py, stock_data.py, stocks.py, utilities.py and stock_console.py or stock_GUI.py (depending on implementation type)
+
+2. 
+PDF file explaining how to execute / run the project files, showing end to end screenshots for all implemented functionalities and a screenshot showing the generated charts based on the daily data scrapped from web for atleast 1 stock. 
+
+3. 
+Optional: GitHub Link for the project
+
+Note: Please note that plagiarism of any kind will not be acceptable for the submission and will result in 0 marks.
+
+I got request from some students that building GUI and Console both solution is going to take little more time. 
+I am giving an option to build  either console based app or complete gUI based lab.
+
+In any case, you need to show matplot chart for the shares history or transactions based on web based data or CSV or transaction by users. 
+I uploaded lab2 pdf again with some console based screen shots and matplotlib diagram. 
